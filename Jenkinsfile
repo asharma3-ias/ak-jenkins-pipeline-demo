@@ -1,3 +1,4 @@
+@Library('test-lib@main') _
 pipeline {
     agent any
 
