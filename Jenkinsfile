@@ -10,7 +10,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                helloHi()
+                helloHi() 
             }
         }
         stage('Deploy') {
