@@ -6,5 +6,5 @@ def info(message)
 
 def call()
 {
-  //
+  info("asd")
 }
